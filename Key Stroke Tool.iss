@@ -21,19 +21,12 @@ WizardStyle=modern
 ArchitecturesAllowed=x64
 ArchitecturesInstallIn64BitMode=x64
 DisableWelcomePage=no
-LicenseFile=C:\Users\BT\Desktop\Keystroke Tool\license.txt
-InfoBeforeFile=C:\Users\BT\Desktop\Keystroke Tool\README.md
+
 
 ; --- Output EXE name ---
 OutputBaseFilename=KeyStrokeTool_Installer
 
 [Files]
-; --- Main Executable ---
-Source: "C:\Users\BT\Desktop\Keystroke Tool\dist\Key Stroke Tool.exe"; DestDir: "{app}"; Flags: ignoreversion
-
-; --- Documentation ---
-Source: "C:\Users\BT\Desktop\Keystroke Tool\READMe.md"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\BT\Desktop\Keystroke Tool\license.txt"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
 ; Start Menu Shortcut

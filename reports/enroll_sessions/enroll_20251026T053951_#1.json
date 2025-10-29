@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "session": "enroll_20251026T053951_#1",
+    "user": "BT"
+  },
+  "events": [
+    {
+      "t": 1761457192.2230153,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "down"
+    },
+    {
+      "t": 1761457192.256508,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "down"
+    },
+    {
+      "t": 1761457192.2875493,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "down"
+    },
+    {
+      "t": 1761457192.2894351,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "down"
+    },
+    {
+      "t": 1761457192.3079503,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "up"
+    },
+    {
+      "t": 1761457192.3079503,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "hold",
+      "hold": 0.01851511001586914
+    },
+    {
+      "t": 1761457192.4253685,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "up"
+    },
+    {
+      "t": 1761457192.4386408,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "up"
+    },
+    {
+      "t": 1761457192.454087,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "up"
+    },
+    {
+      "t": 1761457192.599639,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "down"
+    },
+    {
+      "t": 1761457192.6446412,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "down"
+    },
+    {
+      "t": 1761457192.645948,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "down"
+    },
+    {
+      "t": 1761457192.6805415,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "down"
+    },
+    {
+      "t": 1761457192.7529376,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "up"
+    },
+    {
+      "t": 1761457192.7529376,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "hold",
+      "hold": 0.07239603996276855
+    },
+    {
+      "t": 1761457192.7567837,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "up"
+    },
+    {
+      "t": 1761457192.7614474,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "up"
+    },
+    {
+      "t": 1761457192.7823405,
+      "id": "c83dbea28b668938800115ccfbdd5cc0c4d729f6120f240d25d158da385da9ef",
+      "etype": "up"
+    }
+  ],
+  "generated_at": "2025-10-26T05:40:21.854039Z"
+}
